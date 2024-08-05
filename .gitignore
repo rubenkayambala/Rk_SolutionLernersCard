@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+assets/*.pdf
+assets/qr_codes/*.png

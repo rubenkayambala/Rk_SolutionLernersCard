@@ -1,0 +1,7 @@
+chardet==5.2.0
+pillow==10.4.0
+pypng==0.20220715.0
+qrcode==6.1
+reportlab==3.5.67
+six==1.16.0
+typing_extensions==4.12.2
